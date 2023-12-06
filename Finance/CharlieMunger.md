@@ -2,6 +2,8 @@
 
 <hr>
 
+![charlie munger](https://github.com/Elliot518/mcp-oss-repo/blob/main/famous_people/charlie_munger.png?raw=true)
+
 Vice Chairman of Berkshire Hathaway alongside Warren Buffett, is celebrated for his successful investment partnership and unique philosophy. 
 His key investment principles include a multidisciplinary approach, "invert, always invert" thinking, staying within one's circle of competence, a lattice of mental models, patience, avoiding cognitive biases, seeking a margin of safety, and a focus on high-quality, enduring businesses. 
 Munger's insights emphasize lifelong learning, rational decision-making, and a long-term perspective in investing.

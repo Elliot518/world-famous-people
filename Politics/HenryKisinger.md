@@ -2,6 +2,8 @@
 
 <hr>
 
+![henrry kissinger](https://github.com/Elliot518/mcp-oss-repo/blob/main/famous_people/henry_kissinger.png?raw=true)
+
 Henry Kissinger was an American diplomat, political scientist, geopolitical consultant, and politician who served as the United States secretary of state and national security advisor in the presidential administrations of Richard Nixon and Gerald Ford between 1969 and 1977.
 
 - Important achievements in life
@@ -20,7 +22,7 @@ Henry Kissinger was an American diplomat, political scientist, geopolitical cons
         Played a crucial role in negotiating a ceasefire during the Yom Kippur War in 1973.
 
     - Post-Government Career:
-    
+
         Continued to contribute to international affairs through writing, consulting, and speaking.
 
 Henry Kissinger's diplomatic legacy has left a lasting impact on U.S. foreign policy and international relations.
